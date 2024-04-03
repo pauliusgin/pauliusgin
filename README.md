@@ -1,29 +1,24 @@
-<h3 align="center"
-  
+<h2 align="center">
 Hi there, I'm Paulius.
-
-</h3>
+</h2>
 <br />
 
-✨ Former chef turned dedicated stay-at-home dad and now an aspiring coder, <br />
+✨ Former chef turned dedicated stay-at-home dad and now an aspiring coder, <br/>
 aiming for a transition into the tech industry :raised_hands:
 
 ✨ I'm currently going through a full-stack Javascript bootcamp, working on a <br />
-couple of personal projects and just devouring everything coding-related with a passion.
+couple of personal projects and just devouring everything coding-related with <br />
+a passion.
 
-✨ This page is an archive of my coding journey and it will remain a testament to my wins, <br />
-losses and ongoing progress as a developer.
-
+✨ This page is an archive of my coding journey and it will remain a testament  <br />
+to my wins, losses and ongoing progress as a developer.
 <br />
-
----
-
+<hr/>
 <div align="center">
-    
-🌱 Languages and technologies I'm currently learning:
-
+  
+##### 🌱 Languages and technologies I'm currently learning:
 <br />
-    
+  
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) 
@@ -39,6 +34,6 @@ losses and ongoing progress as a developer.
   
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauliusgin&exclude_repo=pauliusgin,HTML,JavaScript,TypeScript,react-shop.react-shop-backend&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauliusgin&exclude_repo=pauliusgin,HTML,JavaScript,TypeScript,react-shop.react-shop-backend&layout=compact&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff)
   
 </div>
