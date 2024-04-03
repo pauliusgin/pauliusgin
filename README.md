@@ -9,6 +9,5 @@
 
 
 - 🌱 Languages and technologies I'm learning:
-<br />
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![js](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+<br
+![js](http://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
