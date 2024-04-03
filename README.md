@@ -8,5 +8,6 @@
 ✨ This page is an archive of my coding journey and it will remain a testament to my wins, losses and ongoing progress as a developer.
 
 
-- 🌱 Languages and technologies I'm learning:
-![](http://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+- 🌱 Languages and technologies I'm currently learning:
+
+![JS](http://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
