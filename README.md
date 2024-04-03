@@ -22,3 +22,6 @@ losses and ongoing progress as a developer.
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![Firebase](https://img.shields.io/badge/-Firestore-000?&logo=Firebase)
+
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauliusgin&exclude_repo=pauliusgin,HTML,JavaScript,TypeScript,react-shop.react-shop-backend&layout=compact&theme=dark)
