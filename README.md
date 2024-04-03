@@ -10,6 +10,8 @@
 
 🌱 Languages and technologies I'm currently learning:
 
+
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript) 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) 
