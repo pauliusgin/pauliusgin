@@ -17,7 +17,11 @@ Hi there, I'm Paulius.
   
 [![android-chrome-100x100](https://github.com/pauliusgin/pauliusgin/assets/140472668/1eafb459-0f35-4962-9ec6-6ef41376f1b7)](https://sistersartgallery.netlify.app/)
 
-Sisters Art Gallery
+[Sisters Art Gallery](https://sistersartgallery.netlify.app/)
+
+the first website I ever built. With vanilla JS 🤡
+
+
 </div>
 
 ---
