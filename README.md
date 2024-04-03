@@ -15,3 +15,4 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![Firebase](https://img.shields.io/badge/-Firestore-000?&logo=Firebase)
