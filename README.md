@@ -10,6 +10,5 @@
 
 🌱 Languages and technologies I'm currently learning:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-
-![TypeScript](http://img.shields.io/badge/-TypeScript-000?&logo=TypeScript
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
