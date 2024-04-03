@@ -2,18 +2,23 @@
 Hi there, I'm Paulius.
 </h2>
 <br />
+<div>
+  
+✨ Former chef turned dedicated stay-at-home dad and now an aspiring coder, aiming for a transition into the tech industry :raised_hands:
 
-✨ Former chef turned dedicated stay-at-home dad and now an aspiring coder, <br/>
-aiming for a transition into the tech industry :raised_hands:
+✨ I'm currently going through a full-stack Javascript bootcamp, working on a couple of personal projects and just devouring everything coding-related with a passion.
 
-✨ I'm currently going through a full-stack Javascript bootcamp, working on a <br />
-couple of personal projects and just devouring everything coding-related with <br />
-a passion.
+✨ This page is an archive of my coding journey and it will remain a testament to my wins, losses and ongoing progress as a developer.
+</div>
 
-✨ This page is an archive of my coding journey and it will remain a testament  <br />
-to my wins, losses and ongoing progress as a developer.
-<br />
 <hr/>
+
+My first ever website: 
+
+[Sisters Art Gallery](https://sistersartgallery.netlify.app/)
+
+---
+
 <div align="center">
   
 ##### 🌱 Languages and technologies I'm currently learning:
