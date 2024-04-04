@@ -20,7 +20,7 @@ Hi there, I'm Paulius.
 
 <div align="center">
   
-##### 🌱 Languages and technologies I'm currently learning:
+##### 🌱 Languages and technologies I'm currently learning and using:
 <br />
   
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
@@ -33,6 +33,11 @@ Hi there, I'm Paulius.
 ![Firebase](https://img.shields.io/badge/-Firestore-000?&logo=Firebase)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
+##### :telescope: What I want to look at next:
+<br />
+
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![htmx](https://img.shields.io/badge/-htmx-000?&logo=htmx)
 
 </div>
 
