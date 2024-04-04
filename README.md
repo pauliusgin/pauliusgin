@@ -23,9 +23,9 @@ Hi there, I'm Paulius.
 ##### 🌱 Languages and technologies I'm currently learning and using:
 <br />
   
-<img src="https://img.shields.io/badge/-HTML-000?&logo=HTML5" width="100">
-<img src="https://img.shields.io/badge/-CSS-000?&logo=CSS3" width="100">
-<img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" width="100" height="30">
+<img src="https://img.shields.io/badge/-HTML-000?&logo=HTML5" height="30">
+<img src="https://img.shields.io/badge/-CSS-000?&logo=CSS3" height="30">
+<img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" height="50">
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) 
