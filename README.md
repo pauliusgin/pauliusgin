@@ -27,8 +27,8 @@ Hi there, I'm Paulius.
 <img src="https://img.shields.io/badge/-CSS-000?&logo=CSS3" height="30">
 <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" height="30">
 <img src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript" height="30">
-
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) 
+<img src="https://img.shields.io/badge/-Node.js-000?&logo=Node.js" height="30">
+ 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![Firebase](https://img.shields.io/badge/-Firestore-000?&logo=Firebase)
