@@ -40,6 +40,8 @@ Hi there, I'm Paulius.
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![htmx](https://img.shields.io/badge/-htmx-000?&logo=htmx)
 
+<img src="https://img.shields.io/badge/-htmx-000?&logo=htmx" width="200">
+
 </div>
 
   ---
