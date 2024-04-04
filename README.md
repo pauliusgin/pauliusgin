@@ -32,6 +32,7 @@ Hi there, I'm Paulius.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![Firebase](https://img.shields.io/badge/-Firestore-000?&logo=Firebase)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+<br />
 
 ##### :telescope: What I want to look at next:
 <br />
