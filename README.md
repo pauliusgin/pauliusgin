@@ -24,7 +24,7 @@ Hi there, I'm Paulius.
 
 <img src="https://img.shields.io/badge/-HTML-000?&logo=HTML5" height="30">
 <img src="https://img.shields.io/badge/-CSS-000?&logo=CSS3" height="30">
-<img src="https://img.shields.io/badge/-Boostrap-000?&logo=Bootstrap" height="30">
+<img src="https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap" height="30">
 <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" height="30">
 <img src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript" height="30">
 <img src="https://img.shields.io/badge/-Node.js-000?&logo=Node.js" height="30">
