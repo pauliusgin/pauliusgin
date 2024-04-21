@@ -42,7 +42,6 @@ Hi there, I'm Paulius.
 <img src="https://img.shields.io/badge/-Node.js-000?&logo=Node.js" height="30">
 <img src="https://img.shields.io/badge/-React-000?&logo=React" height="30">
 <img src="https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB" height="30">
-<img src="https://img.shields.io/badge/-Firestore-000?&logo=Firebase" height="30">
 <img src="https://img.shields.io/badge/-Git-000?&logo=Git" height="30">
 <br />
 <br />
