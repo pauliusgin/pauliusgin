@@ -1,12 +1,10 @@
 <h2 align="center">
-Hi there, I'm Paulius.
+Hi, I'm Paulius,
 </h2>
 <br />
 <div>
   
-✨ Former chef turned dedicated stay-at-home dad and now an aspiring coder, aiming for a transition into the tech industry :raised_hands:
-
-✨ I have just finished a full-stack Javascript bootcamp, am working on a couple of personal projects and just devouring everything coding-related with a passion.
+✨ Let's get coding! :raised_hands:
 
 ✨ This page is an archive of my coding journey and it will remain a testament to my wins, losses and ongoing progress as a developer.
 </div>
