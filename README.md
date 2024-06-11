@@ -47,8 +47,7 @@ Hi, I'm Paulius,
 ##### :telescope: What I want to look at next:
 
 <img src="https://img.shields.io/badge/-Docker-000?&logo=Docker" height="30">
-<img src="https://img.shields.io/badge/-Next.js-000?&logo=Next.js" height="30">
-<img src="https://img.shields.io/badge/-Tailwind CSS-000?&logo=Tailwind CSS" height="30">
+<img src="https://img.shields.io/badge/-postgresql-000?&logo=postgresql" height="30">
 <img src="https://img.shields.io/badge/-htmx-000?&logo=htmx" height="30">
 </div>
 
