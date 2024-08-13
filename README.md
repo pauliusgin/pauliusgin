@@ -4,7 +4,7 @@ Hi, I'm Paulius,
 <br />
 <div>
   
-✨ Let's get coding! :raised_hands:
+✨ Let's write some code! :raised_hands:
 
 ✨ This page is an archive of my coding journey and it will remain a testament to my wins, losses and ongoing progress as a developer.
 </div>
@@ -15,7 +15,7 @@ Hi, I'm Paulius,
 <a href="https://watcher-owl.vercel.app"><img width="150" alt="watcher_owl_thumb" src="https://github.com/pauliusgin/pauliusgin/assets/140472668/d7c94be7-cc51-4323-a020-1c8409b7db0e"></a><br/>
 <a href="https://watcher-owl.vercel.app">Watcher Owl (work in progress)<a/><br/>
   
-  ##### An app to automate searches in Vinted website and notify you when something you are interested in is found.
+  ##### A web app to automate searches in Vinted website and notify you when something you are interested in is found. Oh my still wip...
 <br/>
   <br/>
 <a href="https://sistersartgallery.netlify.app"><img width="150" alt="sisters_gallery_thumb" src="https://github.com/pauliusgin/pauliusgin/assets/140472668/ba51ae6e-8007-40da-b4e8-51d1fbf2949e"></a><br/>
@@ -30,25 +30,22 @@ Hi, I'm Paulius,
 
 <div align="center">
   
-##### 🌱 Languages and technologies I'm currently learning and using:
+##### 🌱 Languages and technologies I'm using the most:
 
-<img src="https://img.shields.io/badge/-HTML-000?&logo=HTML5" height="30">
-<img src="https://img.shields.io/badge/-CSS-000?&logo=CSS3" height="30">
-<img src="https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap" height="30">
-<img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" height="30">
 <img src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript" height="30">
-<img src="https://img.shields.io/badge/-Node.js-000?&logo=Node.js" height="30">
-<img src="https://img.shields.io/badge/-React-000?&logo=React" height="30">
+<img src="https://img.shields.io/badge/-Node-000?&logo=Node.js" height="30">
+<img src="https://img.shields.io/badge/-Express-000?&logo=Express" height="30">
+<img src="https://img.shields.io/badge/-postgresql-000?&logo=postgresql" height="30">
 <img src="https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB" height="30">
 <img src="https://img.shields.io/badge/-Git-000?&logo=Git" height="30">
+<img src="https://img.shields.io/badge/-Docker-000?&logo=Docker" height="30">
 <br />
 <br />
 
 ##### :telescope: What I want to look at next:
 
-<img src="https://img.shields.io/badge/-Docker-000?&logo=Docker" height="30">
-<img src="https://img.shields.io/badge/-postgresql-000?&logo=postgresql" height="30">
 <img src="https://img.shields.io/badge/-htmx-000?&logo=htmx" height="30">
+<img src="https://img.shields.io/badge/C-000?&logo=C" height="30">
 </div>
 
   ---
