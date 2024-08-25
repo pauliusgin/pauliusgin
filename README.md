@@ -1,10 +1,7 @@
-<h2 align="center">
-Hi, I'm Paulius,
-</h2>
-<br />
+
 <div>
   
-✨ Let's write some code! :raised_hands:
+✨ Let's write a lot of code! :raised_hands:
 
 ✨ This page is an archive of my coding journey and it will remain a testament to my wins, losses and ongoing progress as a developer.
 </div>
@@ -46,6 +43,7 @@ Hi, I'm Paulius,
 
 <img src="https://img.shields.io/badge/-htmx-000?&logo=htmx" height="30">
 <img src="https://img.shields.io/badge/C-000?&logo=C" height="30">
+<img src="https://img.shields.io/badge/GO-000?&logo=GO" height="30">
 </div>
 
   ---
