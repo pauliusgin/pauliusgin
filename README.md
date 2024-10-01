@@ -43,7 +43,6 @@
 
 <img src="https://img.shields.io/badge/-htmx-000?&logo=htmx" height="30">
 <img src="https://img.shields.io/badge/C-000?&logo=C" height="30">
-<img src="https://img.shields.io/badge/GO-000?&logo=GO" height="30">
 </div>
 
   ---
