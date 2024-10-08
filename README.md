@@ -9,15 +9,15 @@
 <hr/>
 
 <div align="center">
-<a href="https://watcher-owl.vercel.app"><img width="150" alt="watcher_owl_thumb" src="https://github.com/pauliusgin/pauliusgin/assets/140472668/d7c94be7-cc51-4323-a020-1c8409b7db0e"></a><br/>
-<a href="https://watcher-owl.vercel.app">Watcher Owl (work in progress)<a/><br/>
+<a href="https://watcher-owl.vercel.app" target=”_blank”><img width="150" alt="watcher_owl_thumb" src="https://github.com/pauliusgin/pauliusgin/assets/140472668/d7c94be7-cc51-4323-a020-1c8409b7db0e"></a><br/>
+<a href="https://watcher-owl.vercel.app" target=”_blank”>Watcher Owl (work in progress)<a/><br/>
   
   ##### A web app to automate searches in Vinted website and notify you when something you are interested in is found. Oh my still wip...
 <br/>
   <br/>
-<a href="https://sistersartgallery.netlify.app"><img width="150" alt="sisters_gallery_thumb" src="https://github.com/pauliusgin/pauliusgin/assets/140472668/ba51ae6e-8007-40da-b4e8-51d1fbf2949e"></a><br/>
+<a href="https://sistersartgallery.netlify.app" target=”_blank”><img width="150" alt="sisters_gallery_thumb" src="https://github.com/pauliusgin/pauliusgin/assets/140472668/ba51ae6e-8007-40da-b4e8-51d1fbf2949e"></a><br/>
   
-<a href="https://sistersartgallery.netlify.app">Sisters Art Gallery</a> <br/>
+<a href="https://sistersartgallery.netlify.app" target=”_blank”>Sisters Art Gallery</a> <br/>
 
   ##### The first website I ever built. With vanilla JS 🤡
   
