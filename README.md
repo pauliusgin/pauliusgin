@@ -4,22 +4,20 @@
 ✨ Let's write a lot of code! :raised_hands:
 
 ✨ This page is an archive of my coding journey and it will remain a testament to my wins, losses and ongoing progress as a developer.
-</div>
 
 <hr/>
 
 <div align="center">
-<a href="https://watcher-owl.vercel.app" target="_blank"><img width="150" alt="watcher_owl_thumb" src="https://github.com/pauliusgin/pauliusgin/assets/140472668/d7c94be7-cc51-4323-a020-1c8409b7db0e"></a><br/>
-<a href="https://watcher-owl.vercel.app" target="_blank">Watcher Owl (work in progress)<a/><br/>
+<a href="https://peleda.vercel.app" target="_blank"><img width="150" alt="watcher_owl_thumb" src="https://github.com/user-attachments/assets/f88ce297-eff7-4f85-bb47-8b95c0f95a76"></a><br/>
+<a href="https://peleda.vercel.app" target="_blank">Pelėdos paieška<a/><br/>
   
-  ##### A web app to automate searches in Vinted website and notify you when something you are interested in is found. Oh my still wip...
-<br/>
+  ##### A web app to automate searches in Vinted website and send you an email when something you are interested in is found.
   <br/>
 <a href="https://sistersartgallery.netlify.app" target="_blank"><img width="150" alt="sisters_gallery_thumb" src="https://github.com/pauliusgin/pauliusgin/assets/140472668/ba51ae6e-8007-40da-b4e8-51d1fbf2949e"></a><br/>
   
 <a href="https://sistersartgallery.netlify.app" target="_blank">Sisters Art Gallery</a> <br/>
 
-  ##### The first website I ever built. With vanilla JS 🤡
+  ##### The first website I ever built. Vanilla JS 🤡
   
 </div>
 
@@ -39,7 +37,7 @@
 <br />
 <br />
 
-##### :telescope: What I want to look at next:
+##### :telescope: What I want to look into next:
 
 <img src="https://img.shields.io/badge/-htmx-000?&logo=htmx" height="30">
 <img src="https://img.shields.io/badge/C-000?&logo=C" height="30">
