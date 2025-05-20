@@ -31,7 +31,6 @@
 <img src="https://img.shields.io/badge/-Node-000?&logo=Node.js" height="30">
 <img src="https://img.shields.io/badge/-Express-000?&logo=Express" height="30">
 <img src="https://img.shields.io/badge/-postgresql-000?&logo=postgresql" height="30">
-<img src="https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB" height="30">
 <img src="https://img.shields.io/badge/-Git-000?&logo=Git" height="30">
 <img src="https://img.shields.io/badge/-Docker-000?&logo=Docker" height="30">
 <br />
