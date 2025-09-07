@@ -39,6 +39,7 @@
 ##### :telescope: What I want to look into next:
 
 <img src="https://img.shields.io/badge/-htmx-000?&logo=htmx" height="30">
+<img src="https://img.shields.io/badge/Go-000?&logo=Go" height="30">
 <img src="https://img.shields.io/badge/C-000?&logo=C" height="30">
 </div>
 
