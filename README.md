@@ -3,9 +3,17 @@
   
 ✨ Let's write a lot of code! :raised_hands:
 
+
 ✨ This page is an archive of my coding journey and it will remain a testament to my wins, losses and ongoing progress as a developer.
 
 <hr/>
+
+<div align="center">
+<a href="https://www.sisters.lt" target="_blank"><img width="150" alt="sisters_art_gallery_thumb" src="https://github.com/user-attachments/assets/dd1d3409-9b06-46a3-bb97-391b2b3b15ae"></a><br/>
+<a href="https://www.sisters.lt" target="_blank">sisters.lt<a/><br/>
+  
+  ##### Completely rebuilt with login and file uploads (node, htmx, postgresql, firebase)
+  <br/>
 
 <div align="center">
 <a href="https://peleda.vercel.app" target="_blank"><img width="150" alt="watcher_owl_thumb" src="https://github.com/user-attachments/assets/f88ce297-eff7-4f85-bb47-8b95c0f95a76"></a><br/>
@@ -33,12 +41,12 @@
 <img src="https://img.shields.io/badge/-postgresql-000?&logo=postgresql" height="30">
 <img src="https://img.shields.io/badge/-Git-000?&logo=Git" height="30">
 <img src="https://img.shields.io/badge/-Docker-000?&logo=Docker" height="30">
+<img src="https://img.shields.io/badge/-htmx-000?&logo=htmx" height="30">
 <br />
 <br />
 
 ##### :telescope: What I want to look into next:
 
-<img src="https://img.shields.io/badge/-htmx-000?&logo=htmx" height="30">
 <img src="https://img.shields.io/badge/Go-000?&logo=Go" height="30">
 <img src="https://img.shields.io/badge/C-000?&logo=C" height="30">
 </div>
