@@ -19,8 +19,7 @@
 <a href="https://peleda.vercel.app" target="_blank"><img width="150" alt="watcher_owl_thumb" src="https://github.com/user-attachments/assets/f88ce297-eff7-4f85-bb47-8b95c0f95a76"></a><br/>
 <a href="https://peleda.vercel.app" target="_blank">Pelėdos paieška<a/><br/>
   
-  ##### A web app to automate searches in Vinted website and send you an email when something you are interested in is found.
-  <br/>
+  ##### A web app to search Vinted website.  <br/>
 <a href="https://sistersartgallery.netlify.app" target="_blank"><img width="150" alt="sisters_gallery_thumb" src="https://github.com/pauliusgin/pauliusgin/assets/140472668/ba51ae6e-8007-40da-b4e8-51d1fbf2949e"></a><br/>
   
 <a href="https://sistersartgallery.netlify.app" target="_blank">Sisters Art Gallery</a> <br/>
