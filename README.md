@@ -52,8 +52,8 @@
 
   ---
   
-<div align="center">
+<!-- <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauliusgin&exclude_repo=pauliusgin,HTML,JavaScript,TypeScript,react-shop.react-shop-backend&layout=compact&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff)
   
-</div>
+</div> -->
