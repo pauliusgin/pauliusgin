@@ -8,7 +8,7 @@
 - ✨ This page is an archive of my coding experiments and it will remain a testament to my wins, losses and ongoing progress as a developer.
 
   
-##### 🌱 Languages and technologies I'm using the most:
+##### What I'm using the most:
 
 <img src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript" height="30">
 <img src="https://img.shields.io/badge/-Node-000?&logo=Node.js" height="30">
