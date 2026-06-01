@@ -16,11 +16,17 @@
 <img src="https://img.shields.io/badge/-postgresql-000?&logo=postgresql" height="30">
 <img src="https://img.shields.io/badge/-Git-000?&logo=Git" height="30">
 <br />
-<br />
+
+---
+
+### Projects:
+
+
+- <a href="https://www.sisters.lt" target="_blank">sisters.lt<a/>
+- <a href="https://peleda.vercel.app" target="_blank">Owl Search<a/> It started as an experiment to see if I can browse vinted website from a terminal.
+- <a href="https://sistersartgallery.netlify.app" target="_blank">Sisters Art Gallery v.1</a> The first website I ever built. Vanilla JS
 
 </div>
-
-  ---
   
 <!-- <div align="center">
 
