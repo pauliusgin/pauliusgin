@@ -19,12 +19,12 @@
 
 ---
 
-### Projects:
+### Personal projects:
 
 
-- <a href="https://www.sisters.lt" target="_blank">sisters.lt<a/>
-- <a href="https://peleda.vercel.app" target="_blank">Owl Search<a/> It started as an experiment to see if I can browse vinted website from a terminal.
-- <a href="https://sistersartgallery.netlify.app" target="_blank">Sisters Art Gallery v.1</a> The first website I ever built. Vanilla JS
+- <a href="https://www.sisters.lt" target="_blank">Sisters Art Gallery v.2<a/> Typescript, PostgreSQL, htmx, Firebase
+- <a href="https://peleda.vercel.app" target="_blank">Owl Search<a/> Typescript, React, MongoDB
+- <a href="https://sistersartgallery.netlify.app" target="_blank">Sisters Art Gallery v.1</a> Javascript, CSS, HTML
 
 </div>
   
