@@ -21,10 +21,7 @@
 
 ### Personal projects:
 
-
 - <a href="https://www.sisters.lt" target="_blank">Sisters Art Gallery v.2<a/> Typescript, PostgreSQL, htmx, Firebase
-- <a href="https://peleda.vercel.app" target="_blank">Owl Search<a/> Typescript, React, MongoDB
-- <a href="https://sistersartgallery.netlify.app" target="_blank">Sisters Art Gallery v.1</a> Javascript, CSS, HTML
 
 </div>
   
